@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Zhongjun
 
+Find our more about me at my website: **[leezhongjun.github.io](https://leezhongjun.github.io/)**
+
 ### Main projects:
   - [YourGuide](https://github.com/leezhongjun/YourGuide) - Audio Guide for visually impaired that uses Computer Vision
   - [2048Solver](https://github.com/leezhongjun/2048Solver) - 2048 AI solver and webapp
@@ -9,3 +11,5 @@
   
 ### Smaller projects:
  - [GorillaType](https://github.com/leezhongjun/GorillaType) - Website for typing and destressing
+
+
