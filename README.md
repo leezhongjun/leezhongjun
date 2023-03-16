@@ -8,8 +8,10 @@ Find our more about me at my website: **[leezhongjun.github.io](https://leezhong
   - [MinesweeperAI](https://github.com/leezhongjun/MinesweeperAI) - Minesweeper AI that interfaces with minesweeperonline.com with OpenCV
   - [ReviewScraper](https://github.com/leezhongjun/ReviewScraper) - Website that scrapes Google for item reviews and runs sentiment analysis
   - [TempoBot](https://github.com/leezhongjun/TempoBot) - Music Bot for Discord
+  - [Easy21-RL](https://github.com/leezhongjun/Easy21-RL) - RL algorithms applied from scratch on Easy21 card game
   
 ### Smaller projects:
  - [GorillaType](https://github.com/leezhongjun/GorillaType) - Website for typing and destressing
+ - [Personal Website (repo)](https://github.com/leezhongjun/leezhongjun.github.io) - My personal website, built with [jekyll](https://github.com/jekyll/jekyll) and [al-folio](https://github.com/alshedivat/al-folio)
 
 
