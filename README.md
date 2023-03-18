@@ -8,7 +8,7 @@ Find our more about me at my website: **[leezhongjun.github.io](https://leezhong
   - [MinesweeperAI](https://github.com/leezhongjun/MinesweeperAI) - Minesweeper AI that interfaces with minesweeperonline.com with OpenCV
   - [ReviewScraper](https://github.com/leezhongjun/ReviewScraper) - Website that scrapes Google for item reviews and runs sentiment analysis
   - [TempoBot](https://github.com/leezhongjun/TempoBot) - Music Bot for Discord
-  - [Easy21-RL](https://github.com/leezhongjun/Easy21-RL) - RL algorithms applied from scratch on Easy21 card game
+  - [Easy21-RL](https://github.com/leezhongjun/Easy21-RL) - RL algorithms applied from scratch on the Easy21 card game
   - [NeuralNetFromScratch](https://github.com/leezhongjun/NeuralNetFromScratch) - Neural net implemented from scratch using only Numpy
   
 ### Smaller projects:
