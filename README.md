@@ -10,6 +10,7 @@ Find our more about me at my website: **[leezhongjun.github.io](https://leezhong
   - [TempoBot](https://github.com/leezhongjun/TempoBot) - Music Bot for Discord
   - [NeuralNetFromScratch](https://github.com/leezhongjun/NeuralNetFromScratch) - Neural net implemented from scratch using only Numpy
   - [SnakeAI](https://github.com/leezhongjun/SnakeAI) - Single agent Snake AI using RL and search algorithms
+  - [ChatGPT-free](https://github.com/leezhongjun/ChatGPT-free) - ChatGPT (gpt-3.5-turbo) with web access and web UI for free
   
 ### Smaller projects:
  - [Easy21-RL](https://github.com/leezhongjun/Easy21-RL) - RL algorithms applied from scratch on the Easy21 card game
