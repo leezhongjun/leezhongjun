@@ -11,10 +11,10 @@ Find our more about me at my website: **[leezhongjun.github.io](https://leezhong
   - [NeuralNetFromScratch](https://github.com/leezhongjun/NeuralNetFromScratch) - Neural net implemented from scratch using only Numpy
   - [SnakeAI](https://github.com/leezhongjun/SnakeAI) - Single agent Snake AI using RL and search algorithms
   - [ChatGPT-free](https://github.com/leezhongjun/ChatGPT-free) - ChatGPT (gpt-3.5-turbo) with web access and web UI for free
+  - [Esslay](https://github.com/leezhongjun/Esslay) - Essay tool for students 
   
 ### Smaller projects:
  - [Easy21-RL](https://github.com/leezhongjun/Easy21-RL) - RL algorithms applied from scratch on the Easy21 card game
  - [GorillaType](https://github.com/leezhongjun/GorillaType) - Website for typing and destressing
- - [Personal Website (repo)](https://github.com/leezhongjun/leezhongjun.github.io) - My personal website, built with [jekyll](https://github.com/jekyll/jekyll) and [al-folio](https://github.com/alshedivat/al-folio)
 
 
