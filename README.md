@@ -1,20 +1,11 @@
 ## Hi there 👋, I'm Zhongjun
 
-Find our more about me at my website: **[leezhongjun.github.io](https://leezhongjun.github.io/)**
+More about me at my website: **[leezhongjun.github.io](https://leezhongjun.github.io/)**
 
-### Main projects:
-  - [YourGuide](https://github.com/leezhongjun/YourGuide) - Audio Guide for visually impaired that uses computer vision
-  - [2048Solver](https://github.com/leezhongjun/2048Solver) - 2048 AI solver and webapp
-  - [MinesweeperAI](https://github.com/leezhongjun/MinesweeperAI) - Minesweeper AI that interfaces with minesweeperonline.com with OpenCV
-  - [ReviewScraper](https://github.com/leezhongjun/ReviewScraper) - Website that scrapes Google for item reviews and runs sentiment analysis
-  - [TempoBot](https://github.com/leezhongjun/TempoBot) - Music Bot for Discord
-  - [NeuralNetFromScratch](https://github.com/leezhongjun/NeuralNetFromScratch) - Neural net implemented from scratch using only Numpy
-  - [SnakeAI](https://github.com/leezhongjun/SnakeAI) - Single agent Snake AI using RL and search algorithms
-  - [ChatGPT-free](https://github.com/leezhongjun/ChatGPT-free) - ChatGPT (gpt-3.5-turbo) with web access and web UI for free
-  - [Esslay](https://github.com/leezhongjun/Esslay) - Essay tool for students 
-  
-### Smaller projects:
- - [Easy21-RL](https://github.com/leezhongjun/Easy21-RL) - RL algorithms applied from scratch on the Easy21 card game
- - [GorillaType](https://github.com/leezhongjun/GorillaType) - Website for typing and destressing
-
-
+### Selected projects:
+  - [YourGuide](https://github.com/leezhongjun/YourGuide) - Audio Guide for visually impaired
+  - [2048Solver](https://github.com/leezhongjun/2048Solver) - 2048 AI solver in python
+  - [MinesweeperAI](https://github.com/leezhongjun/MinesweeperAI) - Minesweeper AI that interfaces with minesweeperonline.com
+  - [NeuralNetFromScratch](https://github.com/leezhongjun/NeuralNetFromScratch) - Neural net from scratch using only NumPy
+  - [SnakeAI](https://github.com/leezhongjun/SnakeAI) - Single agent Snake AI using RL and search
+  - [Esslay](https://github.com/leezhongjun/Esslay) - Essay tool for students
