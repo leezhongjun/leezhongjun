@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Zhongjun
 
-More about me at my website: **[leezhongjun.github.io](https://leezhongjun.github.io/)**
+[leezhongjun.github.io](https://leezhongjun.github.io/)
 
 ### Selected projects:
   - [YourGuide](https://github.com/leezhongjun/YourGuide) - Audio Guide for visually impaired
