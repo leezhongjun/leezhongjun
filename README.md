@@ -9,3 +9,4 @@
   - [NeuralNetFromScratch](https://github.com/leezhongjun/NeuralNetFromScratch) - Neural net from scratch using only NumPy
   - [SnakeAI](https://github.com/leezhongjun/SnakeAI) - Single agent Snake AI using RL and search
   - [Esslay](https://github.com/leezhongjun/Esslay) - Essay tool for students
+  - [CultuRealm](https://github.com/leezhongjun/CultuRealm) - A gamified web app for intercultural learning
