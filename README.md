@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Zhongjun
 
-[leezhongjun.github.io](https://leezhongjun.github.io/)
-
 ### Selected projects:
   - [YourGuide](https://github.com/leezhongjun/YourGuide) - Audio Guide for visually impaired
   - [2048Solver](https://github.com/leezhongjun/2048Solver) - 2048 AI solver in python
