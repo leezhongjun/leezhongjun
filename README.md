@@ -8,3 +8,6 @@
   - [SnakeAI](https://github.com/leezhongjun/SnakeAI) - Single agent Snake AI using RL and search
   - [Esslay](https://github.com/leezhongjun/Esslay) - Essay tool for students
   - [CultuRealm](https://github.com/leezhongjun/CultuRealm) - A gamified web app for intercultural learning
+  - [ReviewScraper](https://github.com/leezhongjun/ReviewScraper) - Website that scrapes Google for item reviews and runs sentiment analysis
+  - [Easy21-RL](https://github.com/leezhongjun/Easy21-RL) - RL algorithms applied from scratch on the Easy21 card game
+
